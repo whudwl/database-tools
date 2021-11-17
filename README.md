@@ -6,3 +6,4 @@
 # [beekeeper studio](https://github.com/beekeeper-studio/beekeeper-studio)
 # [sqlectron](https://github.com/sqlectron/sqlectron-gui)
 # [dbcli](https://github.com/dbcli)
+# [ssms](https://aka.ms/ssmsfullsetup)
