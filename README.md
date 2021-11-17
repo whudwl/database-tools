@@ -7,3 +7,4 @@
 # [sqlectron](https://github.com/sqlectron/sqlectron-gui)
 # [dbcli](https://github.com/dbcli)
 # [ssms](https://aka.ms/ssmsfullsetup)
+# [linqpad](https://www.linqpad.net/)
